@@ -7,3 +7,13 @@ C:\Users\KSCMAO\Documents\Visual Studio 2013\Projects\adt task 4\obj\Debug\ADT T
 C:\Users\KSCMAO\Documents\Visual Studio 2013\Projects\adt task 4\obj\Debug\AADT_Task4.exe
 C:\Users\KSCMAO\Documents\Visual Studio 2013\Projects\adt task 4\obj\Debug\AADT_Task4.xml
 C:\Users\KSCMAO\Documents\Visual Studio 2013\Projects\adt task 4\obj\Debug\AADT_Task4.pdb
+\\kcfs02\StudentHome\20001771\Desktop\adt-task-4-master\adt-task-4-master\adt task 4\bin\Debug\AADT_Task4.exe.config
+\\kcfs02\StudentHome\20001771\Desktop\adt-task-4-master\adt-task-4-master\adt task 4\obj\Debug\AADT_Task4.exe
+\\kcfs02\StudentHome\20001771\Desktop\adt-task-4-master\adt-task-4-master\adt task 4\obj\Debug\AADT_Task4.xml
+\\kcfs02\StudentHome\20001771\Desktop\adt-task-4-master\adt-task-4-master\adt task 4\obj\Debug\AADT_Task4.pdb
+\\kcfs02\StudentHome\20001771\Desktop\adt-task-4-master\adt-task-4-master\adt task 4\bin\Debug\AADT_Task4.exe
+\\kcfs02\StudentHome\20001771\Desktop\adt-task-4-master\adt-task-4-master\adt task 4\bin\Debug\AADT_Task4.pdb
+\\kcfs02\StudentHome\20001771\Desktop\adt-task-4-master\adt-task-4-master\adt task 4\bin\Debug\AADT_Task4.xml
+\\kcfs02\StudentHome\20001771\Desktop\adt-task-4-master\adt-task-4-master\adt task 4\obj\Debug\AADT_Task4.Resources.resources
+\\kcfs02\StudentHome\20001771\Desktop\adt-task-4-master\adt-task-4-master\adt task 4\obj\Debug\ADT Task 4.vbproj.GenerateResource.Cache
+\\kcfs02\StudentHome\20001771\Desktop\adt-task-4-master\adt-task-4-master\adt task 4\obj\Debug\ADT Task 4.vbprojResolveAssemblyReference.cache
