@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Module Name="AADT_Task4.Module1">
+    <Position X="1.25" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="AADT_Task4.Module1.Customer" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Module1.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="AADT_Task4.Module1.PhonePlan" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Module1.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AgAAIAAACAAAAAAhAABSAICAAAgCAACAAAAARAAQAAE=</HashCode>
+      <FileName>Module1.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

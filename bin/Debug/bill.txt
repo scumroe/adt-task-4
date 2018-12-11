@@ -1,0 +1,5 @@
+Bill for: John Doe
+=========================================
+Minutes used: 200 | Texts used: 200 | Data used: 600
+Total monthly bill: £96.00
+=========================================
